@@ -1,0 +1,8 @@
+.Contain{
+    display: grid;
+    grid-template-columns: 20% 20% 15% 15% 15% 15%;
+    height: 400px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+}
